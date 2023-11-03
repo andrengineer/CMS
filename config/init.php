@@ -10,3 +10,6 @@ spl_autoload_register(function ($classLoad) {
         require_once $filePath;
     }
 });
+
+// Leer Variables de Entorno
+define('ENV', parse_ini_file('.env'));
