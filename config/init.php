@@ -1,6 +1,6 @@
 <?php
 
-// iniciar sesión
+// Iniciar Sesión
 session_start();
 
 // Autocargar Clases
