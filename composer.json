@@ -1,0 +1,20 @@
+{
+    "name": "andrengineer/cms",
+    "description": "Manejador de Contenidos PHP",
+    "type": "project",
+    "require": {
+        "php": "^8.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Andrengineer\\Cms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrengineer",
+            "email": "ndrengineer@gmail.com"
+        }
+    ]
+}
